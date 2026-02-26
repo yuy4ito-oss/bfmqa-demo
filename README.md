@@ -10,7 +10,7 @@
 
 ## Google Colab で実行
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuy4ito-oss/bfmqa_demo/blob/main/bfmqa_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuy4ito-oss/bfmqa-demo/blob/main/bfmqa_demo.ipynb)
 
 ## ローカルで実行
 
